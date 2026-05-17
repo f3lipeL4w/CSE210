@@ -4,7 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "prove", "prove", "{01B46C28-82E0-430F-4631-4CCFF6C88A5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "develop02", "prove\develop02\develop02.csproj", "{38F9F811-B9A8-D65B-9966-0702699C9EB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "develop02", "develop02\develop02.csproj", "{38F9F811-B9A8-D65B-9966-0702699C9EB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
